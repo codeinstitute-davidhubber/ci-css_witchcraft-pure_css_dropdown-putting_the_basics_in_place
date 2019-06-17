@@ -1,22 +1,29 @@
-.navDefault {
+.navDefault
+{
     position: fixed;
     top: 0;
     right: 0;
     left: 0;
+
     background-color: #4a4a4f;
 }
 
-button {
-    border: 0;
-    background-color: #0997d3;
+button
+{
     width: 150px;
     height: 50px;
-    color: #fff;
-    text-transform: uppercase;
+
     cursor: pointer;
+    text-transform: uppercase;
+
+    color: #fff;
+    border: 0;
+    background-color: #0997d3;
 }
 
-.dropdownMenu {
-    list-style: none;
+.dropdownMenu
+{
     margin: 0;
+
+    list-style: none;
 }

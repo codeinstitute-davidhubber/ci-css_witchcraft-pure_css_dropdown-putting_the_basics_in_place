@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci_css-witchcraft_pure-css_dropdown-putting_the_basics_in_place/'**
+#### project url: **'https://davidhubber.github.io/ci-css_witchcraft-pure_css_dropdown-putting_the_basics_in_place/'**
 ***
 title: **'Code Institiute - CSS Witchcraft - Pure CSS Dropdown: Putting The Basics In Place'**
 
